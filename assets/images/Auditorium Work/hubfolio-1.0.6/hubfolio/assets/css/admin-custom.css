@@ -1,0 +1,1612 @@
+
+
+.hubfolio-sub-menu-text {
+  display: none;
+}
+
+.menu-item-depth-1 .hubfolio-sub-menu-text,
+.menu-item-depth-2 .hubfolio-sub-menu-text {
+  color: #999;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 400;
+  margin-left: 7px;
+}
+
+#poststuff #post-body.columns-2 #side-sortables select {
+  width: 100%;
+}
+
+#poststuff #post-body.columns-2 #side-sortables input[type="text"] {
+  width: 100%;
+}
+
+#poststuff #post-body.columns-2 #side-sortables .tagsdiv .newtag {
+  width: 180px !important;
+}
+
+#poststuff .stuffbox>h3,
+#poststuff h2,
+#poststuff h3.hndle {
+  font-weight: bold;
+}
+
+.hubfolio_upload_button_multiple {
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #555;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 13px;
+  height: 28px;
+  line-height: 26px;
+  padding: 0 10px 3px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.hubfolio_upload_button_multiple:hover {
+  background-color: #fafafa;
+  border-color: #999;
+  color: #23282d;
+}
+
+.right-part input[type="text"] {
+  width: 320px;
+}
+
+.right-part .short-description {
+  display: block;
+  margin: 1px 0 10px 0;
+}
+
+.right-part {
+  padding: 13px 0 13px !important;
+}
+
+.description_box:last-child {
+  border: 0 none;
+}
+
+.hubfolio-image-select {
+  text-align: left;
+}
+
+.hubfolio-image-select li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.hubfolio-image-select li label {
+  margin: 0 7px 0 0;
+}
+
+.customize-control select {
+  width: 100%;
+}
+
+.multiple_images {
+  text-align: left;
+}
+
+.multiple_images>div {
+  display: inline-block;
+  margin: 0 30px 30px 0;
+  text-align: center;
+  width: 100px;
+}
+
+.multiple_images .remove,
+.add-custom-text-box li .remove-text-box {
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #ef521d !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 13px;
+  height: 28px;
+  line-height: 26px;
+  margin: 6px 0 0 0;
+  padding: 0 10px 1px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.multiple_images .remove:hover,
+.add-custom-text-box li .remove-text-box:hover {
+  background-color: #fafafa;
+  border-color: #999;
+}
+
+.add-custom-text-box li .remove-text-box {
+  color: #555555 !important;
+}
+
+.field-select select {
+  width: 197px;
+}
+
+.mce-i-hubfolio_elements {
+  background: url("../../../assets/images/shortcode-icon.png") no-repeat 1px 2px !important;
+}
+
+.wp-customizer .hubfolio-image-select .active img {
+  border-color: #0073aa;
+}
+
+.wp-customizer .hubfolio-image-select img {
+  border-color: #d9d9d9;
+  border-style: solid;
+  border-width: 4px;
+  height: auto;
+  max-width: 100%;
+  width: auto !important;
+}
+
+.menu-item-actions {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 8px;
+  padding-top: 6px;
+}
+
+.nav-menus-php .submitbox .submitcancel:hover {
+  background-color: transparent !important;
+  border-bottom: 1px solid #0393d8;
+  color: #0393d8;
+}
+
+.hubfolio-switch-option .hubfolio-switch-option {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  padding: 0;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.hubfolio-switch-option {
+  margin-top: 7px;
+}
+
+.hubfolio-switch-option .hubfolio-switch-option label {
+  line-height: 18px;
+  margin: 0;
+  padding: 5px 10px 6px;
+}
+
+.hubfolio-switch-option .hubfolio-switch-option.active {
+  background-color: #0074a2 !important;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#008ec6), to(#0074a2)) !important;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#008ec6), to(#0074a2)) !important;
+  background-image: linear-gradient(top, #008ec6, #0074a2) !important;
+  border: 1px solid #003d55 !important;
+  border: 1px solid #004f6f !important;
+  -webkit-box-shadow: inset 0 1px 0 #00abef, 0 1px 0 rgba(0, 0, 0, 0.15) !important;
+  box-shadow: inset 0 1px 0 #00abef, 0 1px 0 rgba(0, 0, 0, 0.15) !important;
+  color: #fff;
+}
+
+.hubfolio-switch-option {
+  background-color: #f5f5f5 !important;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f5f5f5)) !important;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f5f5f5)) !important;
+  background-image: linear-gradient(top, #f8f8f8, #f5f5f5) !important;
+  border: 1px solid #ddd !important;
+}
+
+.hubfolio-switch-option .hubfolio-switch-option.active label {
+  cursor: default;
+}
+
+.hubfolio-switch-option .switch-option-enable {
+  border-radius: 3px 0 0 3px;
+  border-right: 0 none;
+}
+
+.hubfolio-switch-option .switch-option-disable {
+  border-left: 0 none;
+  border-radius: 0 3px 3px 0;
+}
+
+.switch-option-disable.selected {
+  background-color: #bcbcbc !important;
+  background-image: -moz-linear-gradient(center top, #bcbcbc, #bcbcbc) !important;
+  color: #fff;
+}
+
+.switch-option-disable,
+.switch-option-enable {
+  background-color: #f5f5f5 !important;
+  background-image: -moz-linear-gradient(center top, #f8f8f8, #f5f5f5) !important;
+  border: 1px solid #ccc;
+  border-color: #ccc !important;
+  border-radius: 3px 0 0 3px;
+  border-right: 0 none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: block;
+  float: left;
+  line-height: 26px;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+
+.switch-option-enable.selected {
+  background-color: #0073aa !important;
+  background-image: -moz-linear-gradient(center top, #008bce, #0073aa) !important;
+  border-color: #005077 !important;
+  -webkit-box-shadow: 0 1px 0 #00a7f6 inset, 0 1px 0 rgba(0, 0, 0, 0.15) !important;
+  box-shadow: 0 1px 0 #00a7f6 inset, 0 1px 0 rgba(0, 0, 0, 0.15) !important;
+  color: #fff;
+}
+
+.switch-option-enable {
+  border-right: 0;
+}
+
+.switch-option-disable {
+  border-left: 0;
+  border-radius: 0 3px 3px 0;
+}
+
+.mce-window .mce-container-body {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.mce-window.mce-in {
+  top: 80px !important;
+}
+
+.img-for-style,
+.img-for-title-style,
+.img-for-button-style {
+  height: 150px !important;
+  max-width: 100%;
+  width: auto !important;
+}
+
+.customize-control {
+  padding: 0 0 12px;
+}
+
+.customize-control.customize-control-text input {
+  margin-bottom: 5px;
+}
+
+.customize-control.customize-control-select select {
+  margin-bottom: 5px;
+}
+
+.customize-control-radio .customize-control-title {
+  margin-bottom: 10px;
+}
+
+.menu-settings .customize-control {
+  border: none;
+  padding: 0;
+}
+
+.customize-control.customize-control-nav_menu_auto_add {
+  border: none;
+}
+
+.customize-control-title {
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+
+#customize-controls .description {
+  color: #8c8c8c;
+}
+
+.category-custom-field-select {
+  width: 244px;
+}
+
+.hubfolio_upload_button_multiple_category {
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #555;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 13px;
+  height: 28px;
+  line-height: 26px;
+  padding: 0 10px 3px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.hubfolio_upload_button_multiple_category:hover {
+  background-color: #fafafa;
+  border-color: #999;
+  color: #23282d;
+}
+
+.hubfolio_upload_button_category {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  clear: both;
+  color: #555;
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  font-size: 13px;
+  height: 28px;
+  line-height: 26px;
+  margin: 0 10px 21px 0;
+  padding: 0 10px 1px;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.hubfolio_upload_button_category:hover,
+.hubfolio_upload_button_category:focus {
+  background: #fafafa none repeat scroll 0 0;
+  border-color: #999;
+  color: #23282d;
+}
+
+.hubfolio_upload_button_category:active {
+  background: #eee none repeat scroll 0 0;
+  border-color: #999;
+  -webkit-box-shadow: 0 2px 5px -3px rgba(0, 0, 0, 0.5) inset;
+  box-shadow: 0 2px 5px -3px rgba(0, 0, 0, 0.5) inset;
+  color: #32373c;
+}
+
+.hubfolio_remove_button_category {
+  float: left;
+  margin: 0 10px 21px 0;
+}
+
+.social-widget-sortable img.icon-move,
+.social-widget-sortable img.icon-move {
+  cursor: move;
+  float: left;
+  margin-top: -16px;
+  position: absolute;
+  right: 23px;
+}
+
+/************************ Costmize CSS  ***********************/
+#customize-control-hubfolio_custom_sidebar_separator,
+#customize-control-hubfolio_fevicon_separator,
+#customize-control-hubfolio_image_meta_separator,
+#customize-control-hubfolio_post_default_img_separator,
+#customize-control-hubfolio_portfolio_rewrite_separator,
+#customize-control-hubfolio_scroll_to_top_separator,
+#customize-control-hubfolio_single_post_separator,
+#customize-control-hubfolio_single_post_related_separator,
+#customize-control-hubfolio_post_separator,
+#customize-control-hubfolio_single_portfolio_separator,
+#customize-control-hubfolio_single_portfolio_navigation_separator,
+#customize-control-hubfolio_single_portfolio_navigation_color_separator,
+#customize-control-hubfolio_single_portfolio_related_separator,
+#customize-control-hubfolio_single_portfolio_related_color_separator,
+#customize-control-hubfolio_archive_post_separator,
+#customize-control-hubfolio_archive_layout_separator_settings,
+#customize-control-hubfolio_archive_layout_separator_style,
+#customize-control-hubfolio_archive_layout_separator_title_typography,
+#customize-control-hubfolio_archive_layout_separator_excerpt_content_typography,
+#customize-control-hubfolio_archive_layout_separator_order,
+#customize-control-hubfolio_archive_layout_srcset_animation,
+#customize-control-hubfolio_archive_layout_separator_animation,
+#customize-control-hubfolio_default_post_separator,
+#customize-control-hubfolio_default_layout_separator_settings,
+#customize-control-hubfolio_default_layout_separator_style,
+#customize-control-hubfolio_default_layout_separator_title_typography,
+#customize-control-hubfolio_default_layout_separator_excerpt_content_typography,
+#customize-control-hubfolio_default_layout_separator_order,
+#customize-control-hubfolio_default_layout_srcset_animation,
+#customize-control-hubfolio_default_layout_separator_animation,
+#customize-control-hubfolio_mini_header_separator,
+#customize-control-hubfolio_mini_header_color_separator,
+#customize-control-hubfolio_general_header_separator,
+#customize-control-hubfolio_header_separator,
+#customize-control-hubfolio_general_header_logo_separator,
+#customize-control-hubfolio_background_image_separator,
+#customize-control-hubfolio_single_portfolio_style_data_separator,
+#customize-control-hubfolio_portfolio_archive_page_layout_separator,
+#customize-control-hubfolio_portfolio_archive_page_list_style_data_separator,
+#customize-control-hubfolio_comment_setting_separator,
+#customize-control-hubfolio_h1_setting_separator,
+#customize-control-hubfolio_h2_setting_separator,
+#customize-control-hubfolio_h3_setting_separator,
+#customize-control-hubfolio_h4_setting_separator,
+#customize-control-hubfolio_h5_setting_separator,
+#customize-control-hubfolio_h6_setting_separator,
+#customize-control-hubfolio_base_color_setting_separator,
+#customize-control-hubfolio_h1_logo_separator,
+#customize-control-hubfolio_search_block_separator,
+#customize-control-hubfolio_hamburger_menu_separator,
+#customize-control-hubfolio_hamburger_menu_font_color_separator,
+#customize-control-hubfolio_page_scroll_separator,
+#customize-control-hubfolio_portfolio_archive_page_title_typography,
+#customize-control-hubfolio_portfolio_archive_page_subtitle_typography,
+#customize-control-hubfolio_portfolio_archive_page_style,
+#customize-control-nav_menu-19-name,
+#customize-control-hubfolio_general_page_title_separator,
+#customize-control-hubfolio_page_title_separator,
+#customize-control-hubfolio_page_not_found_separator,
+#customize-control-hubfolio_page_not_found_color_separator,
+#customize-control-hubfolio_general_footer_wrapper_separator,
+#customize-control-hubfolio_footer_wrapper_separator,
+#customize-control-hubfolio_footer_middle_separator,
+#customize-control-hubfolio_footer_separator,
+#customize-control-hubfolio_general_footer_bottom_separator,
+#customize-control-hubfolio_footer_bottom_separator,
+#customize-control-hubfolio_general_footer_social_separator,
+#customize-control-hubfolio_general_footer_social_icon_separator,
+#customize-control-hubfolio_footer_social_icon_separator,
+#customize-control-hubfolio_body_setting_separator,
+#customize-control-hubfolio_general_content_setting_separator,
+#customize-control-hubfolio_post_social_sharing_separator,
+#customize-control-hubfolio_under_maintenance_separator,
+#customize-control-hubfolio_main_font_setting_separator,
+#customize-control-hubfolio_alt_font_setting_separator,
+#customize-control-hubfolio_favicon_separator,
+#customize-control-hubfolio_header_submenu_color_separator,
+#customize-control-hubfolio_header_mobile_menu_color_separator,
+#customize-control-hubfolio_archive_title_separator,
+#customize-control-hubfolio_general_archive_title_separator,
+#customize-control-hubfolio_general_default_title_separator,
+#customize-control-hubfolio_single_page_separator,
+#customize-control-hubfolio_default_title_separator,
+#customize-control-hubfolio_single_page_comment_separator,
+#customize-control-hubfolio_single_post_style_separator,
+#customize-control-hubfolio_archive_post__list_style_data_separator,
+#customize-control-hubfolio_default_post__list_style_data_separator,
+#customize-control-hubfolio_default_post_list_style_data_separator,
+#customize-control-hubfolio_sticky_layout_separator_title_typography,
+#customize-control-hubfolio_sticky_layout_separator_excerpt_content_typography,
+#customize-control-hubfolio_sticky_layout_separator_style,
+#customize-control-nav_menu-18-name,
+#customize-control-nav_menu-60-name,
+#customize-control-hubfolio_single_post_title_separator,
+#customize-control-hubfolio_general_single_post_title_separator,
+#customize-control-hubfolio_general_single_portfolio_title_separator,
+#customize-control-hubfolio_single_portfolio_title_separator,
+#customize-control-hubfolio_general_portfolio_archive_title_separator,
+#customize-control-hubfolio_portfolio_archive_title_separator,
+#customize-control-hubfolio_archive_post_layout_container_separator,
+#customize-control-hubfolio_archive_post_list_style_data_separator,
+#customize-control-hubfolio_portfolio_social_sharing_separator,
+#customize-control-hubfolio_product_social_sharing_separator,
+#customize-control-hubfolio_title_tagline_separator,
+#customize-control-hubfolio_header_image_separator,
+#customize-control-hubfolio_general_single_product_title_separator,
+#customize-control-hubfolio_single_product_title_separator,
+#customize-control-hubfolio_general_product_archive_title_separator,
+#customize-control-hubfolio_product_archive_title_separator,
+#customize-control-hubfolio_single_product_separator,
+#customize-control-hubfolio_single_product_style_separator,
+#customize-control-hubfolio_single_product_related_separator,
+#customize-control-hubfolio_single_product_up_sells_separator,
+#customize-control-hubfolio_single_product_cross_sells_separator,
+#customize-control-hubfolio_product_archive_layout_container_separator,
+#customize-control-hubfolio_product_archive_style_data_separator,
+#customize-control-hubfolio_product_archive_product_sale_typography,
+#customize-control-hubfolio_product_archive_product_title_typography,
+#customize-control-hubfolio_product_archive_product_rating_star_typography,
+#customize-control-hubfolio_product_archive_product_price_typography,
+#customize-control-hubfolio_product_archive_product_button_typography,
+#customize-control-hubfolio_single_product_sale_typography,
+#customize-control-hubfolio_single_product_zoom_typography,
+#customize-control-hubfolio_single_product_page_title_typography,
+#customize-control-hubfolio_single_product_rating_star_typography,
+#customize-control-hubfolio_single_product_price_typography,
+#customize-control-hubfolio_single_product_stock_typography,
+#customize-control-hubfolio_single_product_button_typography,
+#customize-control-hubfolio_single_product_related_product_heading_typography,
+#customize-control-hubfolio_single_product_up_sells_product_heading_typography,
+#customize-control-hubfolio_single_product_cross_sells_product_heading_typography,
+#customize-control-hubfolio_single_product_short_description_typography,
+#customize-control-hubfolio_single_product_page_meta_typography,
+#customize-control-hubfolio_single_product_page_tab_typography,
+#customize-control-hubfolio_main_font_languages_setting_separator {
+  margin-top: 45px;
+  padding-top: 10px;
+}
+
+#customize-control-nav_menu-17-name,
+#customize-control-nav_menu-61-name {
+  margin-top: 15px;
+  padding-bottom: 0;
+}
+
+/*** change layout ***/
+.customize-pane-child li.customize-control-sidebar_widgets,
+#sub-accordion-section-hubfolio_add_under_maintenance_section li.customize-control:last-child {
+  padding-bottom: 15px;
+}
+
+.hubfolio-image-select li {
+  float: left;
+}
+
+.hubfolio-image-select li label {
+  float: left;
+  margin: 0 5px 0 0;
+  padding-bottom: 0;
+  width: 100%;
+}
+
+.wp-customizer .hubfolio-image-select img {
+  /*width: 50px !important;*/
+  border-width: 2px;
+}
+
+.wp-customizer .hubfolio-image-select img {
+  -webkit-backface-visibility: hidden !important;
+}
+
+.hubfolio-image-select.hubfolio-image-select li {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  padding: 0 5px;
+  text-align: center;
+  width: 100%;
+}
+
+.hubfolio-image-select.hubfolio-preview-image-column-2 li {
+  width: 50%;
+}
+
+.hubfolio-image-select.hubfolio-preview-image-column-3 li {
+  width: 33.33%;
+}
+
+.hubfolio-image-select.hubfolio-preview-image-column-4 li {
+  width: 25%;
+}
+
+.hubfolio-image-select.hubfolio-preview-image-column-5 li {
+  width: 20%;
+}
+
+.wp-customizer .hubfolio-large-preview-image.hubfolio-image-select img {
+  width: 100px !important;
+}
+
+.hubfolio-social-icon-list li input {
+  float: left;
+  width: 100%;
+}
+
+.hubfolio-post-social-icon-list li input {
+  float: right;
+  width: 92% !important;
+}
+
+.hubfolio-post-social-icon-list li input[type="checkbox"] {
+  float: left;
+  margin: 5px 0 0;
+  width: auto !important;
+}
+
+.hubfolio-social-icon-list li img.icon-move,
+.hubfolio-post-social-icon-list li img.icon-move {
+  cursor: move;
+  float: left;
+  margin-top: 10px;
+  position: absolute;
+  right: 8px;
+}
+
+.hubfolio-social-icon-list li,
+.hubfolio-social-icon-list li label,
+.hubfolio-post-social-icon-list li,
+.hubfolio-post-social-icon-list li label {
+  float: left;
+  position: relative;
+  width: 100%;
+}
+
+.hubfolio-social-icon-list li,
+.hubfolio-post-social-icon-list li {
+  margin-bottom: 15px;
+}
+
+.hubfolio-social-icon-list li:last-child,
+.hubfolio-post-social-icon-list li:last-child {
+  margin-bottom: 0;
+}
+
+.hubfolio-social-icon-list li label span,
+.hubfolio-post-social-icon-list li label span {
+  display: block;
+  margin-bottom: 4px;
+}
+
+#customize-control-hubfolio_footer_logo_image .thumbnail-image,
+#customize-control-hubfolio_footer_retina_logo_image .thumbnail-image {
+  background: #dfdfdf;
+  border: 1px solid #dddddd;
+  padding: 20px;
+}
+
+#customize-control-hubfolio_page_title_style .hubfolio-image-select li,
+#customize-control-hubfolio_archive_title_style .hubfolio-image-select li,
+#customize-control-hubfolio_default_title_style .hubfolio-image-select li,
+#customize-control-hubfolio_footer_wrapper_style .hubfolio-image-select li,
+#customize-control-hubfolio_footer_style .hubfolio-image-select li,
+#customize-control-hubfolio_footer_bottom_style .hubfolio-image-select li {
+  padding: 0;
+}
+
+.hubfolio_description_box .multiple_images {
+  margin: 0 -5px;
+  margin-bottom: 5px;
+}
+
+.hubfolio_description_box .multiple_images>div {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 0 10px 0;
+  padding: 0 5px;
+  vertical-align: top;
+  width: 33.33%;
+}
+
+.hubfolio_description_box .multiple_images .remove {
+  font-size: 11px;
+  height: 20px;
+  line-height: 18px;
+  padding: 0 7px 1px;
+}
+
+.form-wrap .form-field {
+  clear: both;
+  float: left;
+  width: 100%;
+}
+
+.form-wrap .form-field span.description,
+.form-table .form-field span.description {
+  display: block;
+  margin-top: 3px;
+}
+
+.hubfolio_upload_button,
+.hubfolio_upload_button_multiple_customizer {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  clear: both;
+  color: #555;
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  font-size: 13px;
+  height: 28px;
+  line-height: 26px;
+  margin: 0 10px 21px 0;
+  padding: 0 10px 1px;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.hubfolio_description_box .hubfolio_upload_button_multiple_customizer {
+  float: none;
+  margin: 0 5px 0 0;
+  vertical-align: middle;
+}
+
+.hubfolio_upload_button:hover,
+.hubfolio_upload_button:focus,
+.hubfolio_upload_button_multiple_customizer:hover,
+.hubfolio_upload_button_multiple_customizer:focus {
+  background: #fafafa none repeat scroll 0 0;
+  border-color: #999;
+  color: #23282d;
+}
+
+.hubfolio_upload_button:active,
+.hubfolio_upload_button_multiple_customizer:active {
+  background: #eee none repeat scroll 0 0;
+  border-color: #999;
+  -webkit-box-shadow: 0 2px 5px -3px rgba(0, 0, 0, 0.5) inset;
+  box-shadow: 0 2px 5px -3px rgba(0, 0, 0, 0.5) inset;
+  color: #32373c;
+}
+
+.hubfolio_remove_button {
+  float: left;
+  margin: 0 10px 21px 0;
+}
+
+.upload_field,
+.hubfolio_meta_box_tab_content input[type="text"] {
+  float: left;
+  font-size: 12px;
+  margin-bottom: 10px;
+  width: 320px;
+}
+
+.add-custom-text-box li input[type="text"] {
+  width: 70%;
+}
+
+.add-custom-text-box li input.remove-text-box {
+  margin-left: 7px;
+  width: auto;
+}
+
+/*** end change layout ***/
+#customize-control-hubfolio_custom_sidebars,
+#customize-control-hubfolio_ipad_retina_fevicon,
+#customize-control-hubfolio_image_caption_lightbox_popup,
+#customize-control-hubfolio_post_default_image,
+#customize-control-hubfolio_portfolio_tags_url_slug,
+#customize-control-hubfolio_hide_scroll_to_top_button_hover_bg_color,
+#customize-control-hubfolio_hide_page_comment,
+#customize-control-hubfolio_single_post_meta_text_transform,
+#customize-control-hubfolio_related_post_excerpt_length,
+#customize-control-hubfolio_single_post_meta_text_hover_color,
+#customize-control-hubfolio_single_portfolio_share_title,
+#customize-control-hubfolio_hide_navigation_border_single_portfolio,
+#customize-control-hubfolio_no_of_related_single_portfolio,
+#customize-control-hubfolio_single_portfolio_share_box_bg_color,
+#customize-control-hubfolio_single_portfolio_share_box_title_color,
+#customize-control-hubfolio_box_enable_border_archive,
+#customize-control-hubfolio_blog_post_meta_text_transform_archive,
+#customize-control-hubfolio_title_enable_responsive_font_archive,
+#customize-control-hubfolio_content_enable_responsive_font_archive,
+#customize-control-hubfolio_post_per_page_default,
+#customize-control-hubfolio_box_border_type_default,
+#customize-control-hubfolio_title_enable_responsive_font_default,
+#customize-control-hubfolio_content_enable_responsive_font_default,
+#customize-control-hubfolio_animation_default,
+#customize-control-hubfolio_mini_header_right_sidebar,
+#customize-control-hubfolio_mini_header_text_hover_color,
+#customize-control-hubfolio_slide_menu_sidebar,
+#customize-control-hubfolio_sticky_menu_hover_text_color,
+#customize-control-site_icon,
+#customize-control-header_image,
+#customize-control-background_image,
+#customize-control-nav_menu_item-3777,
+#customize-control-page_for_posts,
+#customize-control-hubfolio_page_title_text_transform,
+#customize-control-hubfolio_page_subtitle_color,
+#customize-control-hubfolio_page_not_found_search_placeholder,
+#customize-control-hubfolio_404_content_bg_color,
+#customize-control-hubfolio_footer_wrapper_extra_class,
+#customize-control-hubfolio_footer_wrapper_text_color,
+#customize-control-hubfolio_footer_extra_class,
+#customize-control-hubfolio_footer_widget_title_color,
+#customize-control-hubfolio_footer_bottom_extra_class,
+#customize-control-hubfolio_footer_bottom_border_color,
+#customize-control-hubfolio_before_social_icons_text,
+#customize-control-hubfolio_footer_custom_link,
+#customize-control-hubfolio_footer_social_icon_hover_color,
+#customize-control-hubfolio_body_text_color,
+#customize-control-hubfolio_content_link_hover_color,
+#customize-control-hubfolio_post_social_order-digg,
+#customize-control-hubfolio_main_font_subsets,
+#customize-control-hubfolio_alt_font_subsets,
+#customize-control-hubfolio_logo_light_ratina,
+#customize-control-hubfolio_header_submenu_hover_color,
+#customize-control-hubfolio_header_mobile_menu_hover_color,
+#customize-control-hubfolio_archive_title_text_transform,
+#customize-control-hubfolio_archive_title_breadcrumb_text_hover_color,
+#customize-control-hubfolio_default_title_text_transform,
+#customize-control-hubfolio_default_title_breadcrumb_text_hover_color,
+#customize-control-hubfolio_header_mobile_menu_background_color,
+#customize-control-hubfolio_page_container_style,
+#customize-control-hubfolio_single_post_social_share,
+#customize-control-hubfolio_single_post_container_style,
+#customize-control-hubfolio_post_container_style_archive,
+#customize-control-hubfolio_hide_single_portfolio_share,
+#customize-control-hubfolio_button_text_default,
+#customize-control-hubfolio_enable_under_maintenance_pages {
+  padding-bottom: 15px;
+}
+
+#customize-control-nav_menu_item-6363,
+#customize-control-nav_menu_item-4527 {
+  padding-bottom: 15px !important;
+}
+
+#customize-control-hubfolio_post_layout_setting_archive,
+#customize-control-header_image,
+#customize-control-background_image,
+#customize-control-nav_menu-19,
+#customize-control-nav_menu-18,
+#customize-control-nav_menu-60,
+#customize-control-nav_menu-17,
+#customize-control-nav_menu-61,
+#customize-control-widget_text_icl-4,
+#customize-control-widget_text-5,
+#customize-control-widget_hubfolio_latest_post_widget-6,
+#customize-control-widget_text-28,
+#customize-control-widget_hubfolio_instagram_widget-7,
+#customize-control-show_on_front,
+#customize-control-custom_css {
+  padding-top: 15px;
+}
+
+/******************* End change layout *******************/
+.customize-control label h2 {
+  background: #575757;
+  color: #fff;
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 500;
+  left: 19px;
+  line-height: 24px;
+  line-height: normal;
+  margin: 0;
+  min-height: 10px;
+  padding: 8px 13px 7px;
+  position: absolute;
+  text-align: left !important;
+  text-transform: uppercase;
+  top: -14px;
+  vertical-align: top;
+  z-index: 1;
+}
+
+.customize-control {
+  background: #fff;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-bottom: 0;
+  padding: 0 15px 15px;
+  position: relative;
+}
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+  padding: 15px 15px 40px;
+}
+
+.wp-core-ui .customize-pane-child .button-primary,
+.wp-core-ui .customize-pane-child .button,
+.wp-core-ui .customize-pane-child .button-primary,
+.wp-core-ui .customize-pane-child .button-secondary {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-size: 11px;
+  font-weight: 600 !important;
+  height: 25px !important;
+  line-height: 25px;
+  line-height: normal;
+  text-shadow: none;
+  text-transform: uppercase;
+}
+
+.customize-pane-child .hubfolio-switch-option .hubfolio-switch-option label {
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 13px;
+  margin: 0;
+  padding: 6px 9px 7px;
+  position: relative;
+  text-transform: uppercase;
+  top: -2px;
+}
+
+ul.hubfolio-switch-option {
+  border: none !important;
+  /* border-top: 1px solid rgb(221, 221, 221) !important;*/
+}
+
+ul.hubfolio-switch-option li.hubfolio-switch-option {
+  margin-top: 0;
+}
+
+.customize-control-title {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.customize-control-description {
+  margin-bottom: 15px;
+}
+
+.customize-control-radio .customize-control-title {
+  margin-bottom: 0;
+}
+
+#customize-theme-controls .accordion-section-title:after {
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.upload_image_screenshort {
+  clear: both;
+  float: left;
+  margin-bottom: 10px;
+  width: 150px;
+}
+
+#customize-control-custom_css textarea {
+  border: 1px solid #ddd !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.hubfolio-post-social-icon-list input[type="text"] {
+  background-position: 5px 6px !important;
+  border: 0 !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  padding: 5px 5px 6px 35px;
+  text-transform: capitalize;
+}
+
+.hubfolio-post-social-icon-list input.facebook {
+  background: url("../../../assets/images/facebook-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.twitter {
+  background: url("../../../assets/images/twitter-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.linkedin {
+  background: url("../../../assets/images/linkedin-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.pinterest {
+  background: url("../../../assets/images/pinterest-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.delicious {
+  background: url("../../../assets/images/delicious-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.reddit {
+  background: url("../../../assets/images/reddit-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.stumbleupon {
+  background: url("../../../assets/images/stumbleupon-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.digg {
+  background: url("../../../assets/images/digg-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.tumblr {
+  background: url("../../../assets/images/tumblr-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.blogger {
+  background: url("../../../assets/images/blogger-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.livejournal {
+  background: url("../../../assets/images/livejournal-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.vk {
+  background: url("../../../assets/images/vk-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list input.xing {
+  background: url("../../../assets/images/xing-sharing.jpg") left top no-repeat #eee;
+}
+
+.hubfolio-post-social-icon-list li input[type="checkbox"] {
+  margin-top: 8px;
+}
+
+.vc_responsive_left_box {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 41.6667%;
+}
+
+.vc_element_label,
+.wpb_element_label {
+  margin-bottom: 10px;
+}
+
+.vc_css-editor .vc_settings label {
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+
+.separator_box {
+  float: left;
+  width: 100%;
+}
+
+.separator_box .meta-heading-separator h3 {
+  margin-top: 15px !important;
+}
+
+.attachment-media-view {
+  padding: 10px;
+}
+
+.wp-core-ui .customize-pane-child .button {
+  padding-top: 2px;
+}
+
+.customize-control .wp-color-result-text {
+  line-height: 20px;
+  padding-top: 3px;
+  position: relative;
+  top: -2px;
+}
+
+.customize-control-header button.random .dice {
+  margin: -2px 5px 0 0;
+  vertical-align: middle;
+}
+
+.wp-core-ui .customize-pane-child .background-position-control .button-group .button {
+  height: 40px !important;
+}
+
+.customize-control.first-widget {
+  padding-top: 15px;
+}
+
+.vc_css-editor .vc_settings .color-group .wp-picker-container .wp-picker-holder {
+  left: 0 !important;
+}
+
+.vc_css-editor .vc_settings .color-group .wp-picker-container .wp-picker-input-wrap label {
+  display: inline-block;
+  margin-top: 0;
+}
+
+.vc_css-editor .vc_settings .color-group .wp-picker-container .wp-color-result:focus:after,
+.vc_css-editor .vc_settings .color-group .wp-picker-container .wp-color-result:hover:after {
+  display: none;
+}
+
+.edit_form_line .vc_param_group-list .wpb_vc_row.vc_param_group-collapsed .vc_param_group-controls .column_toggle .vc-c-icon-arrow_drop_down:before {
+  content: "\e5c7";
+}
+
+.edit_form_line .vc_param_group-list .wpb_vc_row .vc_param_group-controls .column_toggle .vc-c-icon-arrow_drop_down:before {
+  content: "\e5c5";
+}
+
+.hubfolio-header-licence {
+  background: rgba(0, 0, 0, 0) url("../../../assets/images/admin-header-bg.jpg") repeat scroll 0 0;
+  margin-bottom: 30px;
+  padding: 6px 10px;
+  position: relative;
+  text-align: right;
+}
+
+.hubfolio-header-licence .display_header {
+  float: left;
+  margin: 18px 10px 22px 10px;
+}
+
+.hubfolio-header-licence .hubfolio-head-right {
+  color: #bbb;
+  float: right;
+  margin: 36px 10px 0 0;
+}
+
+.hubfolio-header-licence .display_header h2 {
+  display: inline-block;
+  font-style: normal;
+  padding-right: 5px;
+}
+
+.hubfolio-header-licence h2 {
+  color: #fff;
+}
+
+.hubfolio-header-licence .display_header span {
+  color: #bbb;
+}
+
+.hubfolio-header-licence .hubfolio-head-right a {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.hubfolio-header-licence .hubfolio-head-right .link_sep {
+  margin: 0 5px;
+}
+
+.licence-content {
+  background: #fff none repeat scroll 0 0;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  margin: 0 0 20px;
+  padding: 125px 20px 125px;
+  text-align: center;
+}
+
+.licence-content a,
+.licence-content a:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  outline: none;
+}
+
+.licence-content-top {
+  background-color: #f8f8f8;
+  border: 1px solid #e1e1e1;
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  width: 870px;
+} 
+
+.licence-content .hubfolio-licence {
+  background-color: #2fb920;
+  border: 0;
+  border-radius: 8px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  display: inline-block;
+  font-size: 18px !important;
+  font-weight: 500;
+  height: auto;
+  line-height: normal;
+  margin: 0 0 38px 0;
+  padding: 22px 30px 22px !important;
+  position: relative;
+  text-decoration: none;
+  -moz-text-shadow: #7d7d7d 0px 0px 0.3em;
+  -webkit-text-shadow: #7d7d7d 0px 0px 0.3em;
+  text-shadow: #7d7d7d 0px 0px 0.3em;
+  text-transform: uppercase;
+  white-space: normal;
+}
+
+.licence-content .hubfolio-licence:hover {
+  background-color: #27af18;
+}
+
+.licence-content .hide-licence-button {
+  display: none;
+}
+
+.licence-content .licence-content-top .hubfolio-licence-spinner {
+  display: none;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.header-licence-top {
+  background-color: #fff;
+  border-bottom: 1px solid #e1e1e1;
+  float: left;
+  width: 100%;
+}
+
+.header-licence-top .header-licence-top-left {
+  border-right: 1px solid #e1e1e1;
+  float: left;
+  padding: 24px 20px 24px;
+  text-align: center;
+  width: 255px;
+}
+
+.header-licence-top .header-licence-top-right {
+  text-align: center;
+}
+
+.header-licence-top .header-licence-top-right h4 {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 35px 0 0 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.licence-content-bottom {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  padding: 55px 20px 58px 20px;
+  width: 100%;
+}
+
+.licence-content-bottom .licence-thankyou-message {
+  display: inline-block;
+  font-size: 16px;
+  line-height: 28px;
+  margin: 0 auto 36px;
+  width: 615px;
+}
+
+.licence-content-bottom .licence-description {
+  color: #6c6c6c;
+  font-size: 12px;
+  line-height: 22px;
+  margin: 0 auto;
+  width: 690px;
+}
+
+.licence-activated-success {
+  background-color: #fff;
+  border: 1px solid #2fb920;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 auto;
+  margin-bottom: 38px;
+  padding: 11px 20px 11px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.licence-activated-success span {
+  display: block;
+  line-height: 18px;
+  margin-top: 6px;
+  padding-left: 40px;
+}
+
+.licence-activated-success i {
+  color: #2fb920;
+  float: left;
+  font-size: 28px;
+  font-weight: normal;
+  margin-bottom: 1px;
+  margin-right: 15px;
+  vertical-align: middle;
+}
+
+.licence-activated-failed {
+  background-color: #fff;
+  border: 1px solid #ff224e;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 auto;
+  margin-bottom: 38px;
+  padding: 11px 20px 11px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.licence-activated-failed span {
+  display: block;
+  line-height: 18px;
+  padding-left: 40px;
+}
+
+.licence-activated-failed i {
+  color: #ff224e;
+  float: left;
+  font-size: 28px;
+  font-weight: normal;
+  margin-bottom: 1px;
+  margin-right: 15px;
+  margin-top: 4px;
+  vertical-align: middle;
+}
+
+.licence-activated-access-denied {
+  background-color: #fff;
+  border: 1px solid #1a6dd6;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 auto;
+  margin-bottom: 38px;
+  padding: 11px 20px 11px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.licence-activated-access-denied span {
+  display: block;
+  line-height: 18px;
+  padding-left: 40px;
+}
+
+.licence-activated-access-denied i {
+  color: #1a6dd6;
+  float: left;
+  font-size: 28px;
+  font-weight: normal;
+  margin-bottom: 1px;
+  margin-right: 15px;
+  margin-top: 4px;
+  vertical-align: middle;
+}
+
+.licence-support-content-bottom {
+  background-color: #fff;
+  border-top: 1px solid #e1e1e1;
+  clear: both;
+  float: left;
+  width: 100%;
+}
+
+.licence-support-content-bottom>div {
+  border-right: 1px solid #e1e1e1;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  min-height: 71px;
+  padding: 22px 10px 18px;
+  text-align: center;
+  width: 33.333%;
+}
+
+.licence-support-content-bottom>div img {
+  margin-bottom: 2px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+.licence-support-content-bottom>div span {
+  color: #6c6c6c;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.licence-support-content-bottom>div a {
+  border: 0;
+  color: #6c6c6c;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.licence-support-content-bottom>div a:hover span {
+  color: #000;
+}
+
+
+
+/* ===============================================================
+			[ * Responsive ]
+================================================================*/
+@-moz-document url-prefix() {
+  .customize-control label h2 {
+    padding-top: 6px;
+  }
+
+  .wp-core-ui .button,
+  .wp-core-ui .button-primary,
+  .wp-core-ui .button-secondary {
+    padding-bottom: 2px;
+  }
+
+  .customize-pane-child .hubfolio-switch-option .hubfolio-switch-option label {
+    top: -1px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .right-part input[type="text"] {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .licence-content {
+    padding: 85px 20px 85px;
+  }
+
+  .licence-content-top {
+    width: 100%;
+  }
+
+  .header-licence-top .header-licence-top-left {
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .header-licence-top .header-licence-top-right h4 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .licence-content-bottom .licence-thankyou-message {
+    width: 85%;
+  }
+
+  .licence-content-bottom .licence-description {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .licence-content-bottom .licence-thankyou-message {
+    width: 100%;
+  }
+
+  .licence-content-bottom .licence-description {
+    width: 100%;
+  }
+
+  .header-licence-top .header-licence-top-left {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 170px;
+  }
+
+  .licence-content {
+    padding: 55px 20px 55px;
+  }
+}
+
+@media screen and (max-width: 880px) {
+  .licence-activated-success.licence-added-success span {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .licence-content {
+    padding: 20px 20px 20px;
+  }
+
+  .header-licence-top .header-licence-top-left {
+    border-right: 0;
+    padding: 20px;
+    width: 100%;
+  }
+
+  .header-licence-top .header-licence-top-right {
+    display: block;
+    float: left;
+    width: 100%;
+  }
+
+  .header-licence-top .header-licence-top-right h4 {
+    font-size: 14px;
+    margin: 0 0 17px 0;
+    padding: 0 10px;
+  }
+
+  .licence-content-bottom {
+    padding: 25px 20px 30px 20px;
+  }
+
+  .licence-content-bottom .licence-thankyou-message {
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 25px;
+  }
+
+  .licence-content .hubfolio-licence {
+    margin-bottom: 25px;
+  }
+
+  .licence-activated-success {
+    margin-bottom: 22px;
+  }
+
+  .licence-support-content-bottom>div span {
+    display: block;
+  }
+
+  .licence-support-content-bottom>div img {
+    margin: 0 0 8px 0;
+  }
+
+  .licence-support-content-bottom>div {
+    padding: 15px 10px 13px;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .licence-support-content-bottom>div.license-documentation span {
+    padding: 0 10px;
+  }
+
+  .licence-support-content-bottom>div.license-support span,
+  .licence-support-content-bottom>div.license-video span {
+    padding: 0 25px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .licence-activated-success span {
+    margin-top: 0;
+  }
+
+  .licence-activated-success i {
+    margin-top: 3px;
+  }
+
+  .licence-activated-success.licence-added-success span {
+    margin-top: 0;
+  }
+
+  .licence-support-content-bottom>div.license-documentation span {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 385px) {
+  .licence-activated-success i {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .licence-activated-failed {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .licence-activated-failed span {
+    padding-left: 35px;
+  }
+
+  .licence-activated-failed i {
+    margin-right: 10px;
+    margin-top: 0;
+  }
+
+  .licence-activated-access-denied {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .licence-activated-access-denied span {
+    padding-left: 35px;
+  }
+
+  .licence-activated-access-denied i {
+    margin-right: 10px;
+    margin-top: 0;
+  }
+
+  .licence-content .hubfolio-licence {
+    font-size: 15px !important;
+    padding: 17px 20px 17px !important;
+  }
+
+  .licence-support-content-bottom>div.license-support span,
+  .licence-support-content-bottom>div.license-video span {
+    padding: 0 10px;
+  }
+
+  .licence-support-content-bottom>div {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+@media screen and (max-width: 419px) {
+  .licence-support-content-bottom>div {
+    border-bottom: 1px solid #e1e1e1;
+    border-right: 0;
+    padding: 20px 10px 17px;
+    width: 100%;
+  }
+
+  .licence-support-content-bottom>div:last-child {
+    border-bottom: 0;
+  }
+}

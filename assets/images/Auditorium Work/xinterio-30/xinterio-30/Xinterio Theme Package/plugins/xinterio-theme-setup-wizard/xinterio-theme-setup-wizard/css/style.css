@@ -1,0 +1,198 @@
+/*****************************************/
+/***** Theme Setup Wizard Message Box ****/
+.pbmit-tsw-message-box{
+	border: 0;
+    box-shadow: 1px 0px 11px 5px rgb(0 0 0 / 8%);
+    margin-bottom: 30px !important;
+    margin-top: 15px !important;
+}
+.pbmit-tsw-message-box .pbmit-tsw-message-text H2{
+	color: #000;
+}
+.pbmit-tsw-message {
+    padding: 45px 25px;
+    display: table;
+    position: relative;
+}
+.pbmit-tsw-message-box::before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #fff url(../images/setup-wizard-bg.png) top left repeat-y;
+   
+    width: 698px;
+    height: 100%;    
+}
+.pbmit-tsw-message-box::after {
+    content: '';
+    position: absolute;
+    right: 50px;
+    top: 50%;
+    background: url(../images/highlight-image.png) top left no-repeat;
+    width: 355px;
+    height: 232px;
+    margin-top: -115px;
+}
+.pbmit-tsw-message-btn {
+    position: relative;
+    z-index: 1;
+    margin-top: 30px;
+}
+.pbmit-tsw-message .pbmit-tsw-message-btn .button-hero,
+.pbmit-tsw-message .pbmit-tsw-message-conform-btn .button{
+    box-shadow: none !important;
+    background-color: #76ba43;
+    text-shadow: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    border: none;
+    border-radius: 0;
+	font-weight: 600;
+	padding-top: 3px;
+}
+.pbmit-tsw-message .pbmit-tsw-message-conform-btn .button-primary,
+.pbmit-tsw-message .pbmit-tsw-message-conform-btn .button {
+    color: #76ba43;
+    background: white;
+    border: 2px solid #76ba43;
+    padding: 2px 15px;
+    height: auto;
+}
+.pbmit-tsw-message .pbmit-tsw-message-conform-btn .pbmit-disable-merlin-message-cancel, 
+.pbmit-tsw-message .pbmit-tsw-message-conform-btn .button.pbmit-disable-ratings-message-cancel {
+    background: #76ba43;
+    color: white;
+}
+.pbmit-tsw-message-logo-main{
+    display: flex;
+    align-items: flex-start;
+}
+.pbmit-tsw-message-logo{
+	padding-right: 50px; 
+}
+.pbmit-tsw-message-text{
+	padding-right: 420px; 
+}
+.pbmit-tsw-message-logo img{
+	width: 103px;
+}
+.pbmit-tsw-message-btn-i{
+    display: flex;
+}
+.pbmit-tsw-message .pbmit-tsw-message-small {
+    text-align: center;
+    margin-left: 25px;
+}
+.pbmit-tsw-message .pbmit-tsw-message-btn-i a{
+    color: #333;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    padding: 13px 15px;   
+    letter-spacing: 0.5px;
+}
+.pbmit-tsw-message .pbmit-tsw-message-btn-i a:focus{
+    outline: 0;    
+    box-shadow: none;
+}
+.pbmit-tsw-message .pbmit-tsw-message-btn-i a.pbmit-setwizard{
+    background-color: #77ba43;
+    color: #fff;
+    border: 0;
+    font-weight: 700;
+    padding: 13px 35px;
+}
+.pbmit-tsw-message-box .pbmit-tsw-message-text h2{
+	margin-top: 0;
+    font-size: 22px;
+    line-height: 32px;
+    position: relative;
+    margin-bottom: 30px;
+}
+.pbmit-tsw-message-box .pbmit-tsw-message-text h2::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -16px;
+    width: 98px;
+    height: 1px;
+    background-color: #c9c9c9;
+}
+.pbmit-tsw-message-text p{
+	font-size: 16px;
+	margin-bottom: 0;
+	color: #000;
+}
+.pbmit-tsw-message-vline-i{
+	width: 2px;
+    height: 101px;
+    background: #e4e4e4;
+    margin: 0 20px;
+}
+.pbmit-tsw-message-conform-i{
+	display: table;
+	padding-top: 13px;
+    padding-left: 11px;
+}
+.pbmit-tsw-message-conform-col{
+	display: table-cell;
+	vertical-align: top;
+	padding-right: 20px;
+}
+.pbmit-tsw-message-conform{
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 2;
+}
+.pbmit-tsw-message-conform-text h3{
+	margin-top: 5px;
+}
+.pbmit-tsw-message-conform-btn{
+	padding-top: 15px;
+}
+.merlin__button--blue:focus {
+    color: white;
+}
+
+/*****************************************/
+/***** Not suported theme message box ****/
+img.warning-sign-image {
+    float: left;
+    width: 50px;
+    height: auto;
+	margin-right: 20px;
+}
+
+.xinterio-tsw-message {
+    padding: 15px;
+}
+
+@media (max-width: 1300px){	
+   
+    .pbmit-tsw-message-text{
+        padding-right: 0;
+    }
+    .pbmit-ratings-box::after,
+    .pbmit-tsw-message-box::after{
+        display: none;
+    }
+    .pbmit-ratings-message-text p{
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 1024px){	
+    .pbmit-tsw-message-btn-i{
+        display: block;
+    }
+    .pbmit-tsw-message .pbmit-tsw-message-small{
+        text-align: left;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+}

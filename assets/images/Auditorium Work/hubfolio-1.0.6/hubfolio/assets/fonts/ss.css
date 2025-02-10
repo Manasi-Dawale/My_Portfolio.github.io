@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "YourFontName"; // Replace 'YourFontName' with your font's name
+  src: url('wp-content/uploads/fonts/yourfont.woff2') format('woff2'), // Update the path to your font files and the format
+       url('wp-content/uploads/fonts/yourfont.woff') format('woff'),
+       url('wp-content/uploads/fonts/yourfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

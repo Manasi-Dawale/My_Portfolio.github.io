@@ -1,0 +1,16 @@
+{
+	"slug": "xinterio",
+	"name": "Xinterio",
+	"description": "<h2 id=\"item-description__xinterio-theme\">Xinterio WordPress Theme</h2>\r\n<p>Welcome to the <strong>Xinterio</strong> WordPress Theme. This theme was created with ease of use in mind. Everything from the 5-minute setup Wizard through to the powerful page builder has been designed with the end user in mind. Perfect for beginners to make powerful changes, and perfect for more advanced users with a clean and simple backend code structure.</p>",
+	"wordpress_namespace": "xinterio",
+	"live": {
+		"url": "https://xinterio-demo.pbminfotech.com/"
+	},
+	"theme_demo_url": "https://xinterio-demo.pbminfotech.com/",
+	"documentation_url": "https://xinterio-demo.pbminfotech.com/docs/",
+	"support_url": "https://support.pbminfotech.com/",
+	"author": {
+		"name": "pbminfotech",
+		"url": "https://themeforest.net/user/pbminfotech/portfolio"
+	}
+}
